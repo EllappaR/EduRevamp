@@ -1,0 +1,96 @@
+[
+    {
+        "1": "Write the number that comes after 4",
+        "2": "What is the number that comes before 9?",
+        "3": "What is the number that comes before 9?",
+        "4": "Write the number that is between 2 and 4.",
+        "5": "How many fingers do you have on one hand?",
+        "6": "If you have 3 apples and you eat 1, how many apples do you have left?",
+        "7": "Add 70 + 25",
+        "8": "Subtract  9 - 2",
+        "9": "Add 40 + 5",
+        "10": "What is the number that is two less than 12?"
+
+    },
+    {
+        "1": {
+            "a": "5",
+            "b": "51",
+            "c": "6",
+            "d": "8"
+
+        },
+        "2": {
+            "a": "9",
+            "b": "8",
+            "c": "2",
+            "d": "1"
+        },
+        "3": {
+            "a": "4",
+            "b": "7",
+            "c": "8",
+            "d": "9"
+
+        },
+        "4": {
+            "a": "3",
+            "b": "8",
+            "c": "5",
+            "d": "7"
+        },
+        "5": {
+            "a": "6",
+            "b": "7",
+            "c": "8",
+            "d": "5"
+        },
+
+        "6": {
+            "a": "5",
+            "b": "2",
+            "c": "0",
+            "d": "4"
+        },
+
+        "7": {
+            "a": "5",
+            "b": "95",
+            "c": "80",
+            "d": "75"
+
+        },
+        "8": {
+            "a": "5",
+            "b": "72",
+            "c": "4",
+            "d": "7"
+        },
+        "9": {
+            "a": "56",
+            "b": "40",
+            "c": "45",
+            "d": "50"
+
+        },
+        "10": {
+            "a": "2",
+            "b": "4",
+            "c": "10",
+            "d": "80"
+        }
+    },
+    {
+        "1": "5",
+        "2": "8",
+        "3": "8",
+        "4": "3",
+        "5": "5",
+        "6": "2",
+        "7": "95",
+        "8": "7",
+        "9": "45",
+        "10": "10"
+
+    }
+]

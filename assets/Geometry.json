@@ -1,0 +1,92 @@
+[
+    {
+        "1": "A rectangle is made up of?",
+        "2": "How many sides does a triangle have?",
+        "3": "Which shape has four equal sides and four right angles?",
+        "4": "What is the name of a shape with five sides?",
+        "5": "How many sides does a rectangle have? ",
+        "6": "Which shape is round like a ball?",
+        "7": "What is the name of a shape with six sides?",
+        "8": "Which shape has three sides and three angles?",
+        "9": "What is the name of a shape with eight sides?",
+        "10": "How many corners (vertices) does a circle have?"
+    },
+    {
+        "1": {
+            "a": "Straight lines",
+            "b": "Curved lines",
+            "c": "Both a and b",
+            "d": "None"
+
+        },
+        "2": {
+            "a": "2",
+            "b": "3",
+            "c": "4",
+            "d": "5"
+        },
+        "3": {
+            "a": "Circle",
+            "b": "Triangle",
+            "c": "Square",
+            "d": "Oval"
+
+        },
+        "4": {
+            "a": "Octagon",
+            "b": "Hexagon",
+            "c": "Pentagon",
+            "d": "Rectangle"
+        },
+        "5": {
+            "a": "4",
+            "b": "5",
+            "c": "3",
+            "d": "6"
+        },
+        "6": {
+            "a": "Circle",
+            "b": "Triangle",
+            "c": "Square",
+            "d": "Rectangle"
+        },
+        "7": {
+            "a": "Octagon",
+            "b": "Hexagon",
+            "c": "Pentagon",
+            "d": "Square"
+        },
+        "8": {
+            "a": "Circle",
+            "b": "Triangle",
+            "c": "Oval",
+            "d": "Rectangle"
+        },
+        "9": {
+            "a": "Hexagon",
+            "b": "Rectangle",
+            "c": "Square",
+            "d": "Octagon"
+        },
+        "10": {
+            "a": "0",
+            "b": "1",
+            "c": "2",
+            "d": "Infinite"
+        }
+
+    },
+    {
+        "1": "Straight lines",
+        "2": "3",
+        "3": "Square",
+        "4": "Pentagon",
+        "5": "4",
+        "6": "Circle",
+        "7": "Hexagon",
+        "8": "Triangle",
+        "9": "Octagon",
+        "10": "0"
+
+    }
+]

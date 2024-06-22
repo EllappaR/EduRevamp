@@ -1,0 +1,92 @@
+[
+    {
+        "1": "Look at the pattern: 2, 4, 6, __, __. What number comes next??",
+        "2": "What comes after the pattern: circle, square, triangle, __, __?",
+        "3": "Complete the pattern: A, B, C, D, __, __.",
+        "4": "Look at the pattern: red, blue, green, __, __. What color comes next?",
+        "5": "What is the next shape in the pattern: star, moon, sun, __, __?",
+        "6": "Complete the pattern: big, bigger, __, __.",
+        "7": "What comes after the pattern: apple, banana, orange, __, __?",
+        "8": "Look at the pattern: clap, clap, stomp, __, __. What comes next?",
+        "9": "Complete the pattern: 1, 3, 5, 7, __, __.",
+        "10": "What is the next picture in the pattern: cat, dog, fish, __, __?"
+    },
+    {
+        "1": {
+            "a": "8,10",
+            "b": "10,11",
+            "c": "9,7",
+            "d": "5,6"
+
+        },
+        "2": {
+            "a": "circle,lion",
+            "b": "pentagon,hexagon",
+            "c": "circle,tiger",
+            "d": "calf,hexagon"
+        },
+        "3": {
+            "a": "G,H",
+            "b": "M,N",
+            "c": "E,F",
+            "d": "L,M"
+
+        },
+        "4": {
+            "a": "orange,banana",
+            "b": "yellow,apple",
+            "c": "apple,banana",
+            "d": "yellow,orange"
+        },
+        "5": {
+            "a": "circle,apple",
+            "b": "circle,square",
+            "c": "apple,square",
+            "d": "square,banana"
+        },
+        "6": {
+            "a": "small,smallest",
+            "b": "biggest,enormous",
+            "c": "tiny,big",
+            "d": "big,smallest"
+        },
+        "7": {
+            "a": "pear,square",
+            "b": "Jaguar,lion",
+            "c": "pear,grape",
+            "d": "Joker,grape"
+        },
+        "8": {
+            "a": "small,jump",
+            "b": "jump,small",
+            "c": "small,small",
+            "d": "jump,jump"
+        },
+        "9": {
+            "a": "8,0",
+            "b": "2,6",
+            "c": "9,11",
+            "d": "6,8"
+        },
+        "10": {
+            "a": "bird,apple",
+            "b": "apple,banana",
+            "c": "bird,turtle",
+            "d": "Mango,Orange"
+        }
+
+    },
+    {
+        "1": "8,10",
+        "2": "pentagon,hexagon",
+        "3": "E,F",
+        "4": "yellow,orange",
+        "5": "circle,square",
+        "6": "biggest,enormous ",
+        "7": " pear,grape",
+        "8": "jump,jump ",
+        "9": "9,11 ",
+        "10": "bird,turtle "
+
+    }
+]

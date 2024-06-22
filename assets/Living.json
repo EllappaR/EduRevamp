@@ -1,0 +1,92 @@
+[
+    {
+        "1": "What do we call the bright, warm object in the sky that gives us light during the day?",
+        "2": "What kind of weather do we have when the sky is clear and the sun is shining brightly?",
+        "3": "What do you call the tiny drops of water that fall from the sky when it rains?",
+        "4": "Which season is known for its cold weather and sometimes snow?",
+        "5": "What is the season when trees lose their leaves, and the weather becomes cooler? ",
+        "6": "What do you wear to keep warm during cold and snowy weather?",
+        "7": "What do we use to protect ourselves from the rain?",
+        "8": "What do you see in the sky during the night that glitters and twinkles?",
+        "9": "What season is characterized by blooming flowers and warmer weather?",
+        "10": "What do we call the fluffy white stuff that falls from the sky in winter ?"
+    },
+    {
+        "1": {
+            "a": "Moon",
+            "b": "Sun",
+            "c": "Star",
+            "d": "Cloud"
+
+        },
+        "2": {
+            "a": "Rainy",
+            "b": "Cloudy",
+            "c": "Sunny",
+            "d": "Snowy"
+        },
+        "3": {
+            "a": "Leaves",
+            "b": "Snowflakes",
+            "c": "Raindrops",
+            "d": "Feathers"
+
+        },
+        "4": {
+            "a": "Autumn",
+            "b": "Spring",
+            "c": "Summer",
+            "d": "Winter"
+        },
+        "5": {
+            "a": "Autumn",
+            "b": "Spring",
+            "c": "Summer",
+            "d": "Winter"
+        },
+        "6": {
+            "a": "Swimsuit",
+            "b": "Winter coat",
+            "c": "Sunglasses",
+            "d": "Sandals"
+        },
+        "7": {
+            "a": "Umbrella",
+            "b": "Sunscreen",
+            "c": "Hat",
+            "d": "Scarf"
+        },
+        "8": {
+            "a": "Moon",
+            "b": "Sun",
+            "c": "Star",
+            "d": "Cloud"
+        },
+        "9": {
+            "a": "Autumn",
+            "b": "Spring",
+            "c": "Summer",
+            "d": "Winter"
+        },
+        "10": {
+            "a": "Rain",
+            "b": "Hail",
+            "c": "Snow",
+            "d": "Sleet"
+        }
+
+    },
+    {
+        "1": "Sun",
+        "2": "Sunny",
+        "3": "Raindrops",
+        "4": "Winter",
+        "5": "Autumn",
+        "6": "Wintercoat",
+        "7": "Umbrella",
+        "8": "Star",
+        "9": "Spring",
+        "10": "Snow"
+
+    }
+]

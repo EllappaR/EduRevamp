@@ -1,0 +1,92 @@
+[
+    {
+        "1": "What is the name of the animal that meows and is often kept as a pet?",
+        "2": "Which animal is known for its long trunk and big ears?",
+        "3": "What do we call the animal that says moo and provides us with milk?",
+        "4": "What animal can hop and is known for its long, powerful legs?",
+        "5": "Which animal lives in water, has gills, and breathes through them?",
+        "6": "What do we call the animal that likes to swing from trees and has a long tail? ",
+        "7": "What do we call the animal that likes to swing from trees and has a long tail?",
+        "8": "What do you call the animal that has scales and slithers on the ground?",
+        "9": "Which animal lives in a hive, makes honey, and buzzes around?",
+        "10": "What animal is known for its long neck and is often seen in the wild?"
+    },
+    {
+        "1": {
+            "a": "Dog",
+            "b": "Cat",
+            "c": "Rabbit",
+            "d": "Fish"
+
+        },
+        "2": {
+            "a": "Lion",
+            "b": "Elephant",
+            "c": "Giraffe",
+            "d": "Tiger"
+        },
+        "3": {
+            "a": "Chicken",
+            "b": "Horse",
+            "c": "Cow",
+            "d": "Duck"
+
+        },
+        "4": {
+            "a": "Kangaroo",
+            "b": "Bear",
+            "c": "Panda",
+            "d": "Zebra"
+        },
+        "5": {
+            "a": "Penguin",
+            "b": "Snake",
+            "c": "Whale",
+            "d": "Fish"
+        },
+        "6": {
+            "a": "Monkey",
+            "b": "Cheetah",
+            "c": "Rhino",
+            "d": "Hippo"
+        },
+        "7": {
+            "a": "Ostrich",
+            "b": "Penguin",
+            "c": "Parrot",
+            "d": "Crocodile"
+        },
+        "8": {
+            "a": "Giraffe",
+            "b": "Snail",
+            "c": "Elephant",
+            "d": "Snake"
+        },
+        "9": {
+            "a": "Bee",
+            "b": "Ant",
+            "c": "Spider",
+            "d": "Worm"
+        },
+        "10": {
+            "a": "Octopus",
+            "b": "Elephant",
+            "c": "Ostrich",
+            "d": "Giraffe"
+        }
+
+    },
+    {
+        "1": "Cat",
+        "2": "Elephant",
+        "3": "Cow",
+        "4": "Kangaroo",
+        "5": "Fish",
+        "6": "Monkey",
+        "7": "Parrot",
+        "8": "Snake",
+        "9": "Bee",
+        "10": "Giraffe"
+
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "1": "_____ is an insect",
+        "2": "The ___ has a cub",
+        "3": "The ___ has a chick in the hole of a tree",
+        "4": "The ___ has a chick lives high up on the rock",
+        "5": "Baby ____ is a pup ",
+        "6": "Baby Fo_ is a Cub ",
+        "7": "Baby _ak is a calf and baby",
+        "8": "_____ is a Foal",
+        "9": "What is baby duck called ?",
+        "10": "What is baby pig called ?"
+    },
+    {
+        "1": {
+            "a": "Bee",
+            "b": "Snake",
+            "c": "Squirrel",
+            "d": "Sheep"
+
+        },
+        "2": {
+            "a": "Tiger",
+            "b": "Tortoise",
+            "c": "Turtle",
+            "d": "Toad"
+        },
+        "3": {
+            "a": "Unicorn",
+            "b": "Upupa",
+            "c": "Umbrella",
+            "d": "Universe"
+
+        },
+        "4": {
+            "a": "Viper Fish",
+            "b": "Vulture",
+            "c": "Vampire",
+            "d": "Valcano Snail"
+        },
+        "5": {
+            "a": "Wolf",
+            "b": "Water",
+            "c": "Watermelon",
+            "d": "Whale"
+        },
+        "6": {
+            "a": "X",
+            "b": "Y",
+            "c": "Z",
+            "d": "W"
+        },
+        "7": {
+            "a": "J",
+            "b": "K",
+            "c": "Y",
+            "d": "L"
+        },
+        "8": {
+            "a": "Zebra",
+            "b": "Zonkey",
+            "c": "Zorilla",
+            "d": "Zebu"
+        },
+        "9": {
+            "a": "Ducklet",
+            "b": "Duckling",
+            "c": "Chick",
+            "d": "Lion"
+        },
+        "10": {
+            "a": "Nut",
+            "b": "Piglet",
+            "c": "Nightingale",
+            "d": "Piggies"
+        }
+
+    },
+    {
+        "1": "Bee",
+        "2": "Tiger",
+        "3": "Upupa",
+        "4": "Vulture",
+        "5": "Wolf",
+        "6": "X",
+        "7": "Y",
+        "8": "Zebra",
+        "9": "Duckling",
+        "10": "Piglet"
+
+    }
+]

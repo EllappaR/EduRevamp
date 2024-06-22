@@ -1,0 +1,96 @@
+[
+    {
+        "1": "Which is in it's hill ?",
+        "2": "Which is in it's cave ?",
+        "3": "Which is on the tree?",
+        "4": "Which is in the house ?",
+        "5": "Which is in it's forest ?",
+        "6": "Which is in it's hole ?",
+        "7": "Which is in the shed ?",
+        "8": "Which is on the farm?",
+        "9": "Which is in the lake ?",
+        "10": "J for?"
+
+    },
+    {
+        "1": {
+            "a": "Apple",
+            "b": "Ant",
+            "c": "Aeroplane",
+            "d": "Animal"
+
+        },
+        "2": {
+            "a": "Bear",
+            "b": "Ball",
+            "c": "Basket",
+            "d": "Bat"
+        },
+        "3": {
+            "a": "Camel",
+            "b": "Cock",
+            "c": "Cat",
+            "d": "Cow"
+
+        },
+        "4": {
+            "a": "Duck",
+            "b": "Donkey",
+            "c": "Dog",
+            "d": "Dragon"
+        },
+        "5": {
+            "a": "Elephant",
+            "b": "Egg",
+            "c": "Eagle",
+            "d": "Earth"
+        },
+
+        "6": {
+            "a": "Fire",
+            "b": "Fox",
+            "c": "Fruit",
+            "d": "Fish"
+        },
+
+        "7": {
+            "a": "Grass",
+            "b": "Goat",
+            "c": "Giraffe",
+            "d": "Grapes"
+
+        },
+        "8": {
+            "a": "Hat",
+            "b": "House",
+            "c": "Hut",
+            "d": "Horse"
+        },
+        "9": {
+            "a": "Hat",
+            "b": "House",
+            "c": "Hut",
+            "d": "Horse"
+
+        },
+        "10": {
+            "a": "Tree",
+            "b": "Joker",
+            "c": "Pencil",
+            "d": "Book"
+        }
+    },
+    {
+        "1": "Ant",
+        "2": "Bear",
+        "3": "Cat",
+        "4": "Dog",
+        "5": "Elephant",
+        "6": "Fox",
+        "7": "Goat",
+        "8": "Horse",
+        "9": "Ibis",
+        "10": "Joker"
+
+    }
+]

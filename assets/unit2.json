@@ -1,0 +1,92 @@
+[
+    {
+        "1": "What comes next? CAT TAC - PAT ___?",
+        "2": "What is baby lion called?",
+        "3": "What is Baby Elephant is called?",
+        "4": "Find the missing letter for  _iger ?",
+        "5": "Find the missing letter for _ebra ?",
+        "6": "The dog _____ at the beggar",
+        "7": "_____ hops along the path",
+        "8": "He passes a _____ sleeping in the grass",
+        "9": "A ____ climbs a tree",
+        "10": "A Monkey Climbs a tree to see a _____"
+    },
+    {
+        "1": {
+            "a": "PAT",
+            "b": "TAP",
+            "c": "APT",
+            "d": "BAT"
+
+        },
+        "2": {
+            "a": "Cub",
+            "b": "Foal",
+            "c": "Kid",
+            "d": "calf"
+        },
+        "3": {
+            "a": "Cub",
+            "b": "Calf",
+            "c": "duckling",
+            "d": "kid"
+
+        },
+        "4": {
+            "a": "H",
+            "b": "T",
+            "c": "L",
+            "d": "k"
+        },
+        "5": {
+            "a": "H",
+            "b": "Z",
+            "c": "K",
+            "d": "G"
+        },
+        "6": {
+            "a": "Bark",
+            "b": "Laugh",
+            "c": "Lock",
+            "d": "Cook"
+        },
+        "7": {
+            "a": "Jungle",
+            "b": "Jaguar",
+            "c": "Jug",
+            "d": "Joker"
+        },
+        "8": {
+            "a": "Kangaroo",
+            "b": "Kitty",
+            "c": "Kite",
+            "d": "Knight"
+        },
+        "9": {
+            "a": "Lamp",
+            "b": "Lemon",
+            "c": "Ladder",
+            "d": "Lion"
+        },
+        "10": {
+            "a": "Nut",
+            "b": "New",
+            "c": "Nightingale",
+            "d": "Night"
+        }
+
+    },
+    {
+        "1": "TAP",
+        "2": "Bear",
+        "3": "Calf",
+        "4": "T",
+        "5": "Z",
+        "6": "Bark",
+        "7": "Jaguar",
+        "8": "Kangaroo",
+        "9": "Lion",
+        "10": "Nightingale"
+
+    }
+]

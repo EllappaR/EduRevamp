@@ -1,0 +1,96 @@
+[
+    {
+        "1": "What do we call the place where a rabbit lives?",
+        "2": "Where can you often find a bird's nest?",
+        "3": "Which animal can climb trees?",
+        "4": "What do people keep as a pet in their homes?",
+        "5": "What do we call a place where many trees, plants, and animals live together?",
+        "6": "What do rabbits make their homes in, under the ground?",
+        "7": "Where do farmers keep their tools and equipment for farming?",
+        "8": "Which animal can be found near a pond or lake?",
+        "9": "Can you think of a word that starts with 'I' and is related to water and birds?",
+        "10": "What do you find in a library that starts with 'J' and has many stories and pictures?"
+
+    },
+    {
+        "1": {
+            "a": "Hole",
+            "b": "House",
+            "c": "Hill",
+            "d": "Nest"
+
+        },
+        "2": {
+            "a": "In the ground",
+            "b": "On a tree",
+            "c": "Underwater",
+            "d": "In the air"
+        },
+        "3": {
+            "a": "Elephant",
+            "b": "Cat",
+            "c": "Lion",
+            "d": "Dog"
+
+        },
+        "4": {
+            "a": "Car",
+            "b": "Parrot",
+            "c": "Bus",
+            "d": "Bicycle"
+        },
+        "5": {
+            "a": "City",
+            "b": "Park",
+            "c": "Jungle",
+            "d": "Desert"
+        },
+
+        "6": {
+            "a": "Cave",
+            "b": "Hole",
+            "c": "Shed",
+            "d": "Lake"
+        },
+
+        "7": {
+            "a": "Beach",
+            "b": "School",
+            "c": "Farm",
+            "d": "Library"
+
+        },
+        "8": {
+            "a": "Crocodile",
+            "b": "Kangaroo",
+            "c": "Giraffe",
+            "d": "Lion"
+        },
+        "9": {
+            "a": "Ice cream",
+            "b": "Internet",
+            "c": "Island",
+            "d": "Igloo"
+
+        },
+        "10": {
+            "a": "Journal",
+            "b": "Jelly",
+            "c": "Jaguar",
+            "d": "Jigsaw puzzle"
+        }
+    },
+    {
+        "1": "Hole",
+        "2": "On a tree",
+        "3": "Cat",
+        "4": "Parrot",
+        "5": "Jungle",
+        "6": "Hole",
+        "7": "Farm",
+        "8": "Crocodile",
+        "9": "Island",
+        "10": "Journal"
+
+    }
+]
